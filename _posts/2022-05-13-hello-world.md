@@ -1,6 +1,5 @@
 ---
 title: Hello World
-layout: post
 categories:
 - Edge Case
   tags:
