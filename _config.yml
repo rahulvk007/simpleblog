@@ -45,7 +45,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:title/
+permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -91,9 +91,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: RahulVk
   picture:
-  email:
+  email: rahulptvijayakumar@gmail.com
   twitter:
   links:
     - title:
