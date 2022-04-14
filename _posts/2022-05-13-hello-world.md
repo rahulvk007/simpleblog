@@ -1,14 +1,10 @@
 ---
-title: Hello World
-categories:
-- Edge Case
-  tags:
-- content
-- css
-- edge case
-- lists
-- markup
-  last_modified_at: 2017-03-09T14:25:52-05:00
+title: "Hello World"
+excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
+last_modified_at: 2017-03-09T10:27:01-05:00
+tags: 
+  - code
+  - syntax highlighting
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
